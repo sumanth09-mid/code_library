@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="day2.css">
+</head>
+<body>
+    <table border="1" id="table 1" width="200" class="content">
+        <tr>
+            <th rowspan="2">A</th>
+            <td>b</td>
+            <td rowspan="3">D</td>
+            <td colspan="2">E</td>
+            <td>f</td>
+            
+        </tr>
+        <tr>
+            <td>c</td>
+            
+            <td rowspan="2">g</td>
+            <td rowspan="2">h</td>
+            <td rowspan="2">i</td>
+            
+        </tr>
+        <tr >
+            <th colspan="2">J</th>
+        </tr>
+        <tr>
+            <td colspan="3">k</td>
+            <td colspan="2">l</td>
+            <td>m</td>
+            
+            
+        </tr>
+        
+    </table>
+
+
+    <a href="https://www.youtube.com/">youtube link</a><br>
+<br>
+    <button>click</button>
+    <br>
+    <br>
+   <button>sumanth</button> 
+
+   
+
+<br><br>
+
+   <a href=""> Back to amazon</a>
+   <h1 style="color:rgb(172, 46, 46)">NIKE BLACK RUNNING SHOE</h1>
+   <h4 style="color:green">$39-in stock</h4>
+   <button class="cart-button">Add to Cart</button>
+   <button class="buy-button">Buy</button>
+   
+
+   <p class="para"> this is para</p>
+   <br>
+   <a href="il_300x300.4596931661_t456.avif">mustang</a>
+
+   <br>
+   <br>
+
+   <button class="praveen">Praveen &#128147 Druvitha</button>
+
+
+
+   
+</body>
+</html>
